@@ -35,7 +35,7 @@ public class ValidParentheses {
 
     public static void main (String... argv) {
         System.out.println("is valid: ()" + isValid("()"));
-        System.out.println("is valid: ()[]{}" + isValid("()[]{}"));
+        System.out.println("is valid: ()[]{}" + isValid("(}"));
 
     }
 }
