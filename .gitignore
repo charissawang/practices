@@ -1,6 +1,11 @@
 .idea
 *.iml
+.DS_Store
 
 /build/
 /out/
+src/com/.DS_Store
+src/com/charissa/.DS_Store
+
+
 
